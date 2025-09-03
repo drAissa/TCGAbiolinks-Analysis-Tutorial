@@ -36,7 +36,9 @@ See the `scripts/` directory for practical code examples from the vignette.
 - [TCGAbiolinks Bioconductor Page](https://bioconductor.org/packages/TCGAbiolinks)
 - [TCGA Data Portal](https://portal.gdc.cancer.gov/)
 - [Bioconductor Help Forum](https://support.bioconductor.org/)
-
+- [OMICtools - RNA-seq Category](https://omictools.com/rna-seq-category)
+- [Bioinformatics Software & Tools for NGS](http://bioinformaticssoftwareandtools.co.in/ngs.php)
+- [RNA-seq Blog - Data Analysis Section](http://www.rna-seqblog.com/category/technology/methods/data-analysis/)
 ## 📊 Example Analysis
 
 *(You can add your own code examples here)*
